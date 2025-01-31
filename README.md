@@ -1,6 +1,8 @@
 # LiteCNNRice
 ## Rice Leaf Disease Classification using Resource-Efficient Deep Learning Models via Response-Based Knowledge Distillation
 
+###**To view the steamlit app click link https://litecnn4rice.streamlit.app/**###
+
 ---
 
 ### 🌾 **Overview** 🌾
